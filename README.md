@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhammed Abdul-Ghaffar
 - 👀 I’m interested in VR & MMOs
-- 🌱 I’m currently learning User Success/Support
+- 🌱 I’m currently learning User Success/Support tech stack
 - 💞️ I’m looking to collaborate on open-source projects
 relating to VR or MMOs
 - 📫 How to reach me: muhammedsacollege@gmail.com
